@@ -19,5 +19,5 @@ Comprehensive visualizations to interpret and communicate results effectively.
 This project highlights the application of Python in environmental data science to support evidence-based decision-making for water resource management.
 
 
-![MAP OF SITES]()
+![MAP OF SITES](touch figures/messageImage_1736844470263.jpg)
 
