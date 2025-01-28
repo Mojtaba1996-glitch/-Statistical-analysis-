@@ -21,3 +21,6 @@ This project highlights the application of Python in environmental data science 
 
 ![MAP OF SITES](figures/mapsites.jpg)
 
+## Project Notebooks
+
+- [📘 ES2.ipynb](ES2.ipynb): A Jupyter Notebook analyzing statistical data for the project.
