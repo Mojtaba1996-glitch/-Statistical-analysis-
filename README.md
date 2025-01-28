@@ -22,7 +22,7 @@ This project provides a **comprehensive statistical analysis and visualization**
 - **Programming Language**: Python  
 - **Statistical Libraries**: NumPy, Pandas, SciPy, Statsmodels  
 - **Visualization Libraries**: Matplotlib, Seaborn  
-- **File Format**: Jupyter Notebook (`ES2.ipynb`)
+- **File Format**:  [📘 ES2.ipynb](ES2.ipynb)
 
 This project demonstrates the **integration of Python-based statistical techniques** with environmental data science to support **evidence-based decision-making** for water resource management.
 
