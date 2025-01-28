@@ -1,4 +1,4 @@
-##🌊 Statistical Analysis of Water Quality in the Huay Kaew Watershed. 
+🌊 Statistical Analysis of Water Quality in the Huay Kaew Watershed. 
 
 This project provides a comprehensive statistical analysis and visualization of water quality data from the Huay Kaew Watershed, Chiang Mai Province, Thailand. Using advanced statistical techniques, it evaluates key physico-chemical parameters to gain actionable insights into sustainable water resource management.
 
